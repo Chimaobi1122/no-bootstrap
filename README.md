@@ -2,10 +2,10 @@
 
 no-bootstrap is a CSS/SCSS library for abstracting boostrap responsive layout models without having to import bootstrap and the many other unnecessary 10,000 lines of boostrap styles.
 
+This is strictly for developers who want to make use of the bootstrap responsive layout and that alone. We have added some little utility class such as the flex display and the width and height style. 
+
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/Nnaji-Victor/no-bootstrap)
-
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Nnaji-Victor/no-bootstrap/development)
-
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Nnaji-Victor/no-bootstrap/master)
 ![GitHub](https://img.shields.io/github/license/Nnaji-Victor/no-bootstrap)
 ![GitHub followers](https://img.shields.io/github/followers/Nnaji-Victor?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Nnaji-Victor/no-bootstrap?style=social)

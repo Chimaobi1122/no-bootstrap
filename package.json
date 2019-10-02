@@ -4,7 +4,7 @@
   "description": "Abstracted responsive layout without the many lines of bootstrap code",
   "main": "index.js",
   "scripts": {
-    "watch": "node-sass sass/main.scss css/nobootstrap.css -w",
+    "watch": "node-sass sass/main.scss css/style.css -w",
 
     "compile:sass": "node-sass sass/main.scss css/nobootstrap.comp.css",
     "prefix:css": "postcss --use autoprefixer -b 'last 10 versions' css/nobootstrap.comp.css -o css/nobootstrap.prefix.css",

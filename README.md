@@ -1,6 +1,6 @@
 # no-bootstrap
 
-no-bootstrap is a CSS/SCSS library for abstracting boostrap responsive layout models without having to import bootstrap and the many other unnecessary 10,000 lines of boostrap styles.
+no-bootstrap is a CSS/SCSS boilerplate for abstracting boostrap responsive layout models without having to import bootstrap and the many other unnecessary 10,000 lines of boostrap styles.
 
 This is strictly for developers who want to make use of the bootstrap responsive layout and that alone. We have added some little utility class such as the flex display and the width and height style. 
 
